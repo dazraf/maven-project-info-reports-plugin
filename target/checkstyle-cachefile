@@ -1,0 +1,16 @@
+#Mon Jan 23 19:34:48 GMT 2017
+/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/dependencies/DependenciesReportConfiguration.java=1485199979000
+/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/SummaryReport.java=1485199979000
+/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/ModulesReport.java=1485199979000
+/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/IssueManagementReport.java=1485199979000
+/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/DistributionManagementReport.java=1485199979000
+/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/MailingListsReport.java=1485199979000
+/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/dependencies/ManagementDependencies.java=1485199979000
+/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/DependencyInformationReport.java=1485199979000
+/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/dependencies/DependencyVersionMap.java=1485199979000
+/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/DependenciesReport.java=1485199979000
+/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/DependencyManagementReport.java=1485199979000
+/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/CiManagementReport.java=1485199979000
+/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/dependencies/SinkSerializingDependencyNodeVisitor.java=1485199979000
+configuration*?=B6FD82513D70F65D20BDC65A049B25DD40FBF4A1
+/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/LicensesReport.java=1485199979000

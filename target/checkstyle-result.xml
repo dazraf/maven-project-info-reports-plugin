@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.1.1">
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/AbstractProjectInfoRenderer.java">
+<error line="108" column="5" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/AbstractProjectInfoReport.java">
+<error line="495" column="49" severity="warning" message="&apos;bundleName&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="501" column="49" severity="warning" message="&apos;bundleName&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="507" column="49" severity="warning" message="&apos;bundleName&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="507" column="68" severity="warning" message="&apos;locale&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="525" column="53" severity="warning" message="&apos;locale&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="531" column="41" severity="warning" message="&apos;bundleName&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="531" column="60" severity="warning" message="&apos;locale&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="595" column="38" severity="warning" message="&apos;bundleName&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="595" column="57" severity="warning" message="&apos;locale&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="601" column="38" severity="warning" message="&apos;bundleName&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="601" column="57" severity="warning" message="&apos;locale&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="607" column="38" severity="warning" message="&apos;bundleName&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="607" column="57" severity="warning" message="&apos;locale&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/CiManagementReport.java">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/dependencies/Dependencies.java">
+<error line="283" column="61" severity="warning" message="&apos;dependencyNode&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/dependencies/DependenciesReportConfiguration.java">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/dependencies/DependencyVersionMap.java">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/dependencies/ManagementDependencies.java">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/dependencies/renderer/DependenciesRenderer.java">
+<error line="173" column="12" severity="error" message="More than 7 parameters (found 13)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="506" column="5" severity="error" message="Method length is 160 lines (max allowed is 150)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/dependencies/renderer/DependencyManagementRenderer.java">
+<error line="90" column="12" severity="error" message="More than 7 parameters (found 11)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/dependencies/RepositoryUtils.java">
+<error line="98" column="12" severity="error" message="More than 7 parameters (found 10)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/dependencies/SinkSerializingDependencyNodeVisitor.java">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/DependenciesReport.java">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/DependencyConvergenceReport.java">
+<error line="450" column="30" severity="warning" message="&apos;filter&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/DependencyInformationReport.java">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/DependencyManagementReport.java">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/DistributionManagementReport.java">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/IndexReport.java">
+<error line="109" column="9" severity="error" message="More than 7 parameters (found 9)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/IssueManagementReport.java">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/LicensesReport.java">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/MailingListsReport.java">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/ModulesReport.java">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/PluginManagementReport.java">
+<error line="146" column="16" severity="error" message="More than 7 parameters (found 9)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="174" column="30" severity="warning" message="&apos;pluginManagement&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/PluginsReport.java">
+<error line="148" column="16" severity="error" message="More than 7 parameters (found 10)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/ProjectInfoReportUtils.java">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/ScmReport.java">
+<error line="183" column="9" severity="error" message="More than 7 parameters (found 11)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/SummaryReport.java">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/java/org/apache/maven/report/projectinfo/TeamReport.java">
+<error line="446" column="22" severity="error" message="More than 7 parameters (found 12)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/resources/project-info-reports.properties">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/resources/project-info-reports_cs.properties">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/resources/project-info-reports_de.properties">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/resources/project-info-reports_en.properties">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/resources/project-info-reports_es.properties">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/resources/project-info-reports_fr.properties">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/resources/project-info-reports_gl.properties">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/resources/project-info-reports_hu.properties">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/resources/project-info-reports_it.properties">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/resources/project-info-reports_ja.properties">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/resources/project-info-reports_ko.properties">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/resources/project-info-reports_lt.properties">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/resources/project-info-reports_nl.properties">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/resources/project-info-reports_no.properties">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/resources/project-info-reports_pl.properties">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/resources/project-info-reports_pt.properties">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/resources/project-info-reports_pt_BR.properties">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/resources/project-info-reports_ru.properties">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/resources/project-info-reports_sk.properties">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/resources/project-info-reports_sv.properties">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/resources/project-info-reports_tr.properties">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/resources/project-info-reports_zh_CN.properties">
+</file>
+<file name="/Users/Fuzz/tmp/maven-project-info-reports-plugin/src/main/resources/project-info-reports_zh_TW.properties">
+</file>
+</checkstyle>

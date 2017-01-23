@@ -1,0 +1,196 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2017-01-23T19:34:08+00:00
+Notes: 1
+Binaries: 1
+Archives: 0
+Standards: 157
+
+Apache Licensed: 157
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL    pom.xml
+  AL    src/it/dependencies-java-1.7-and-1.8/pom.xml
+  AL    src/it/dependencies-java-1.7-and-1.8/verify.groovy
+  AL    src/it/full-pom/pom.xml
+  AL    src/it/full-pom/verify.bsh
+  AL    src/it/git/inherited/pom.xml
+  AL    src/it/git/inherited/src/site/apt/index.apt.vm
+  AL    src/it/git/invoker.properties
+  AL    src/it/git/pom.xml
+  AL    src/it/git/push/inherited/pom.xml
+  AL    src/it/git/push/inherited/src/site/apt/index.apt.vm
+  AL    src/it/git/push/pom.xml
+  AL    src/it/git/push/src/site/apt/index.apt.vm
+  AL    src/it/git/src/site/apt/index.apt.vm
+  AL    src/it/java-version/invoker.properties
+  AL    src/it/java-version/plugin/pom.xml
+  AL    src/it/java-version/pluginManagement/pom.xml
+  AL    src/it/java-version/pom.xml
+  AL    src/it/java-version/property/pom.xml
+  AL    src/it/java-version/verify.groovy
+  AL    src/it/minimal-pom/pom.xml
+  AL    src/it/minimal-pom/verify.bsh
+  AL    src/it/mpir-229/module1/pom.xml
+  AL    src/it/mpir-229/pom.xml
+  AL    src/it/mpir-229/src/site/site.xml
+  AL    src/it/mpir-229/verify.groovy
+  N     src/it/MPIR-242/LICENSE.txt
+  AL    src/it/MPIR-242/pom.xml
+  AL    src/it/MPIR-242/src/site/site.xml
+  AL    src/it/MPIR-242/verify.groovy
+  AL    src/it/MPIR-251/invoker.properties
+  AL    src/it/MPIR-251/pom.xml
+  AL    src/it/MPIR-251/verify.groovy
+  AL    src/it/MPIR-300/invoker.properties
+  AL    src/it/MPIR-300/pom.xml
+  AL    src/it/MPIR-300/verify.groovy
+  AL    src/it/multi-module/dep/pom.xml
+  AL    src/it/multi-module/dep/src/main/java/org/apache/maven/its/dep/Dep.java
+  AL    src/it/multi-module/invoker.properties
+  AL    src/it/multi-module/main/pom.xml
+  AL    src/it/multi-module/main/src/main/java/org/apache/maven/its/main/Main.java
+  AL    src/it/multi-module/pom.xml
+  AL    src/it/multi-module/verify.groovy
+  AL    src/it/settings.xml
+  AL    src/main/java/org/apache/maven/report/projectinfo/AbstractProjectInfoRenderer.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/AbstractProjectInfoReport.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/CiManagementReport.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/dependencies/Dependencies.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/dependencies/DependenciesReportConfiguration.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/dependencies/DependencyVersionMap.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/dependencies/ManagementDependencies.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/dependencies/renderer/DependenciesRenderer.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/dependencies/renderer/DependencyManagementRenderer.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/dependencies/RepositoryUtils.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/dependencies/SinkSerializingDependencyNodeVisitor.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/DependenciesReport.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/DependencyConvergenceReport.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/DependencyInformationReport.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/DependencyManagementReport.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/DistributionManagementReport.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/IndexReport.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/IssueManagementReport.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/LicensesReport.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/MailingListsReport.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/ModulesReport.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/PluginManagementReport.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/PluginsReport.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/ProjectInfoReportUtils.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/ScmReport.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/SummaryReport.java
+  AL    src/main/java/org/apache/maven/report/projectinfo/TeamReport.java
+  B     src/main/resources/org/apache/maven/report/projectinfo/resources/images/close.gif
+  AL    src/main/resources/project-info-reports.properties
+  AL    src/main/resources/project-info-reports_cs.properties
+  AL    src/main/resources/project-info-reports_de.properties
+  AL    src/main/resources/project-info-reports_en.properties
+  AL    src/main/resources/project-info-reports_es.properties
+  AL    src/main/resources/project-info-reports_fr.properties
+  AL    src/main/resources/project-info-reports_gl.properties
+  AL    src/main/resources/project-info-reports_hu.properties
+  AL    src/main/resources/project-info-reports_it.properties
+  AL    src/main/resources/project-info-reports_ja.properties
+  AL    src/main/resources/project-info-reports_ko.properties
+  AL    src/main/resources/project-info-reports_lt.properties
+  AL    src/main/resources/project-info-reports_nl.properties
+  AL    src/main/resources/project-info-reports_no.properties
+  AL    src/main/resources/project-info-reports_pl.properties
+  AL    src/main/resources/project-info-reports_pt.properties
+  AL    src/main/resources/project-info-reports_pt_BR.properties
+  AL    src/main/resources/project-info-reports_ru.properties
+  AL    src/main/resources/project-info-reports_sk.properties
+  AL    src/main/resources/project-info-reports_sv.properties
+  AL    src/main/resources/project-info-reports_tr.properties
+  AL    src/main/resources/project-info-reports_zh_CN.properties
+  AL    src/main/resources/project-info-reports_zh_TW.properties
+  AL    src/site/apt/examples/custom-report.apt.vm
+  AL    src/site/apt/examples/individual-reports.apt
+  AL    src/site/apt/examples/scm-report.apt.vm
+  AL    src/site/apt/examples/selective-project-info-reports.apt.vm
+  AL    src/site/apt/index.apt.vm
+  AL    src/site/apt/usage.apt
+  AL    src/site/fml/faq.fml
+  AL    src/site/resources/download.cgi
+  AL    src/site/site.xml
+  AL    src/site/xdoc/download.xml.vm
+  AL    src/test/java/org/apache/maven/report/projectinfo/AbstractProjectInfoTestCase.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/CiManagementReportTest.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/DependenciesReportTest.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/DependencyConvergenceReportTest.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/DependencyManagementReportTest.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/IndexReportTest.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/IssueManagementReportTest.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/LicensesReportTest.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/MailingListsReportTest.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/ModulesReportTest.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/PluginManagementReportTest.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/ProjectInfoReportUtilsTest.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/ScmReportTest.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/stubs/CiManagementStub.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/stubs/DefaultArtifactHandlerStub.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/stubs/DependenciesStub.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/stubs/DependencyConvergenceStub.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/stubs/DependencyManagementStub.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/stubs/IndexStub.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/stubs/IssueManagementStub.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/stubs/LicensesStub.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/stubs/MailingListsStub.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/stubs/ModulesStub.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/stubs/PluginManagementStub.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/stubs/ProjectInfoPluginArtifactStub.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/stubs/ProjectInfoProjectStub.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/stubs/ScmStub.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/stubs/SettingsStub.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/stubs/SubProject1Stub.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/stubs/SubProject2Stub.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/stubs/SummaryStub.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/stubs/TeamStub.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/SummaryReportTest.java
+  AL    src/test/java/org/apache/maven/report/projectinfo/TeamReportTest.java
+  AL    src/test/resources/iso-8859-5-encoded.txt
+  AL    src/test/resources/org/apache/maven/report/projectinfo/AbstractProjectInfoTestCase.xml
+  AL    src/test/resources/plugin-configs/ci-management-plugin-config.xml
+  AL    src/test/resources/plugin-configs/dependencies-plugin-config.xml
+  AL    src/test/resources/plugin-configs/dependency-convergence-plugin-config.xml
+  AL    src/test/resources/plugin-configs/dependency-management-plugin-config.xml
+  AL    src/test/resources/plugin-configs/index-plugin-config.xml
+  AL    src/test/resources/plugin-configs/issue-management-plugin-config.xml
+  AL    src/test/resources/plugin-configs/licenses-plugin-config-linkonly.xml
+  AL    src/test/resources/plugin-configs/licenses-plugin-config.xml
+  AL    src/test/resources/plugin-configs/mailing-lists-plugin-config.xml
+  AL    src/test/resources/plugin-configs/modules-plugin-config.xml
+  AL    src/test/resources/plugin-configs/plugin-management-plugin-config.xml
+  AL    src/test/resources/plugin-configs/scm-plugin-config.xml
+  AL    src/test/resources/plugin-configs/scm-wrong-url-plugin-config.xml
+  AL    src/test/resources/plugin-configs/subproject1/pom.xml
+  AL    src/test/resources/plugin-configs/subproject2/pom.xml
+  AL    src/test/resources/plugin-configs/summary-plugin-config.xml
+  AL    src/test/resources/plugin-configs/team-plugin-config.xml
+  AL    src/test/resources/realm.properties
+ 
+*****************************************************
+ Printing headers for files without AL header...
+ 
+ 
